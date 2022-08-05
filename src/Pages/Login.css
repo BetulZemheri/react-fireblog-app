@@ -1,0 +1,60 @@
+.form {
+    width: 30rem;
+    height: 40rem;
+    background-color: white;
+    box-shadow: 4px 4px 5px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .login {
+    background-image: url("https://picsum.photos/1347/800");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+  }
+  
+  .blokimage {
+    width: 12rem;
+    background-color: #046582;
+    border-radius: 100%;
+    height: 12rem;
+    margin: 4rem auto;
+    padding: 1rem;
+  }
+  
+  .loginleftandright {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .leftandright1 {
+    border-bottom: 5px solid #046582;
+    width: 5rem;
+    margin: 1.5rem 0.4rem;
+    border-radius: 5px;
+  }
+  
+  .logininput {
+    width: 70%;
+    border-radius: 20px;
+    border: 1px solid grey;
+    margin: 2rem auto;
+    font-size: 2rem;
+  }
+  
+  .loginbutton {
+    width: 50%;
+    background-color: #046582;
+    color: white;
+    margin: 0rem auto 1rem;
+    border: none;
+    border-radius: 20px;
+    font-size: 2rem;
+    box-shadow: 3px 3px 5px grey;
+  }

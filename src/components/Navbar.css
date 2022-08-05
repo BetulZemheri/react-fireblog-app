@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(27, 102, 130);
+  align-items: center;
+  height: 5rem;
+  box-shadow: 2px 2px 5px rgba(179, 58, 188, 0.437);
+}
+
+.cwimage {
+  cursor: pointer;
+  width: 3rem;
+  height: 3rem;
+  margin-left: 2rem;
+}
+
+.headingmiddle {
+  display: flex;
+}
+
+.leftandright {
+  border-top: 5px solid #ffffff;
+  width: 10rem;
+  margin-top: 1.3rem;
+  margin: 1.3rem 0.5rem;
+  border-radius: 5px;
+}
+
+.userrighttop {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+    box-shadow: 2px 2px 2px white;
+}
+.dropdown {
+  border-radius: 10px;
+  color: white;
+}

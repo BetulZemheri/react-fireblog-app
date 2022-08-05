@@ -1,0 +1,12 @@
+.profilee {
+    box-shadow: 5px 5px 5px rgb(63, 60, 60);
+    background-color: rgb(243, 229, 210);
+    max-width: 50rem;
+    margin: 10rem auto;
+    border-radius: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 20rem;
+}

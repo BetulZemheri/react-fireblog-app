@@ -1,0 +1,27 @@
+.dashboard {
+    display: flex;
+    gap: 1rem;
+    margin-top: 3rem;
+    justify-content: center;
+    cursor: pointer;
+    flex-wrap: wrap;
+}
+
+.dashh1 {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.lftnrght {
+    border-bottom: 4px solid #046582;
+    width: 10rem;
+    margin: 1.5rem;
+    border-radius: 3px;
+}
+
+.dhsb {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
