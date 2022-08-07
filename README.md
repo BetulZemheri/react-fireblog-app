@@ -1,4 +1,4 @@
-# https://react-fireblog-project.netlify.app/details
+# https://react-fireblog-project.netlify.app/
 
 # Getting Started with Create React App
 
